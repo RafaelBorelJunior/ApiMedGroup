@@ -1,0 +1,12 @@
+C:\Users\Rafael\Desktop\ApiTeste\ApiTeste\ApiTeste.Business\bin\Release\net6.0\ApiTeste.Business.deps.json
+C:\Users\Rafael\Desktop\ApiTeste\ApiTeste\ApiTeste.Business\bin\Release\net6.0\ApiTeste.Business.dll
+C:\Users\Rafael\Desktop\ApiTeste\ApiTeste\ApiTeste.Business\bin\Release\net6.0\ApiTeste.Business.pdb
+C:\Users\Rafael\Desktop\ApiTeste\ApiTeste\ApiTeste.Business\obj\Release\net6.0\ApiTeste.Business.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\ApiTeste\ApiTeste\ApiTeste.Business\obj\Release\net6.0\ApiTeste.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\ApiTeste\ApiTeste\ApiTeste.Business\obj\Release\net6.0\ApiTeste.Business.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\ApiTeste\ApiTeste\ApiTeste.Business\obj\Release\net6.0\ApiTeste.Business.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\ApiTeste\ApiTeste\ApiTeste.Business\obj\Release\net6.0\ApiTeste.Business.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\ApiTeste\ApiTeste\ApiTeste.Business\obj\Release\net6.0\ApiTeste.Business.dll
+C:\Users\Rafael\Desktop\ApiTeste\ApiTeste\ApiTeste.Business\obj\Release\net6.0\refint\ApiTeste.Business.dll
+C:\Users\Rafael\Desktop\ApiTeste\ApiTeste\ApiTeste.Business\obj\Release\net6.0\ApiTeste.Business.pdb
+C:\Users\Rafael\Desktop\ApiTeste\ApiTeste\ApiTeste.Business\obj\Release\net6.0\ref\ApiTeste.Business.dll
